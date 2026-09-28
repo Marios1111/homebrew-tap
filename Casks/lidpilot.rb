@@ -1,8 +1,8 @@
 cask "lidpilot" do
-  version "1.0.0"
-  sha256 "ef4b33a5009a6415221bf35a7c009737439d92db451aac794bbecc787f275fbb"
+  version "2.0.0"
+  sha256 "cf3ca1e3052a5947ed2f3627f01b06ae02449440a27d82edba02267cf1f59f60"
 
-  url "https://github.com/Marios1111/lidpilot/releases/download/v1.0.0/LidPilot-1.0.0.dmg"
+  url "https://github.com/Marios1111/lidpilot/releases/download/v2.0.0/LidPilot-2.0.0.dmg"
   name "LidPilot"
   desc "Control bounded keep-awake sessions from the menu bar"
   homepage "https://lidpilot.app/"
